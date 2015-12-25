@@ -31,3 +31,9 @@
 	- https://github.com/elabs/mobile-websocket-example
 
 ### 其他开源项目
+* socket.io
+	- http://socket.io/
+	> Socket.IO enables real-time bidirectional event-based communication.
+It works on every platform, browser or device, focusing equally on reliability and speed.
+
+
