@@ -9,13 +9,13 @@
 
 ####widget
 
-####工具类
-* https://github.com/jaredrummler/AndroidProcesses
-	> A small library to get the current running processes on Android
-* https://github.com/romainguy/ViewServer
-	> Local server for Android's HierarchyViewer.
-	> ViewServer is a simple class you can use in your Android application
-to use the HierarchyViewer inspection tool.
+####工具类  
+* https://github.com/jaredrummler/AndroidProcesses    
+	A small library to get the current running processes on Android
+* https://github.com/romainguy/ViewServer  
+	Local server for Android's HierarchyViewer.  
+	ViewServer is a simple class you can use in your Android application
+	to use the HierarchyViewer inspection tool.  
 
 ### IOS开源项目
 
@@ -25,21 +25,21 @@ to use the HierarchyViewer inspection tool.
 
 #### 即时通讯
 * websocket
-	- https://github.com/TooTallNate/Java-WebSocket
-		> A barebones WebSocket client and server implementation written in 100% Java. http://java-websocket.org/
+	- https://github.com/TooTallNate/Java-WebSocket    
+		A barebones WebSocket client and server implementation written in 100% Java. http://java-websocket.org/
 	- http://java-websocket.org/
-	- https://github.com/koush/android-websockets
-		> WebSockets (hybi13/RFC) and socket.io client for Android.
-		> THIS LIBRARY IS DEPRECATED IN FAVOR OF:
-[AndroidAsync](https://github.com/koush/AndroidAsync)
-	- https://github.com/koush/AndroidAsync
-		> Asynchronous socket, http (client+server), websocket, and socket.io library for android. Based on nio, not threads.
-	- https://github.com/elabs/mobile-websocket-example
+	- https://github.com/koush/android-websockets    
+		WebSockets (hybi13/RFC) and socket.io client for Android.    
+		THIS LIBRARY IS DEPRECATED IN FAVOR OF:  
+[AndroidAsync](https://github.com/koush/AndroidAsync)  
+	- https://github.com/koush/AndroidAsync    
+		Asynchronous socket, http (client+server), websocket, and socket.io library for android. Based on nio, not threads.  
+	- https://github.com/elabs/mobile-websocket-example  
 
-### 其他开源项目
-* socket.io
-	- http://socket.io/
-		> Socket.IO enables real-time bidirectional event-based communication.
-It works on every platform, browser or device, focusing equally on reliability and speed.
+### 其他开源项目  
+* socket.io  
+	- http://socket.io/    
+		Socket.IO enables real-time bidirectional event-based communication.  
+		It works on every platform, browser or device, focusing equally on reliability and speed.
 
 
