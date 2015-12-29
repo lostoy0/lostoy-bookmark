@@ -8,6 +8,12 @@
 ####框架类
 
 ####widget
+* https://github.com/oguzbilgener/CircularFloatingActionMenu  
+	an animated circular menu for Android
+* https://github.com/anupcowkur/Android-Wheel-Menu  
+	Simple and easy to use circular menu widget for Android.
+* https://github.com/szugyi/Android-CircleMenu  
+	Menu with items on a rotating circle
 
 ####工具类  
 * https://github.com/jaredrummler/AndroidProcesses    
