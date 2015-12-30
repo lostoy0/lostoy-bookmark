@@ -14,7 +14,7 @@
 		Simple and easy to use circular menu widget for Android.
 * https://github.com/szugyi/Android-CircleMenu  
 		Menu with items on a rotating circle
-* https://github.com/xresco/CircularLayout
+* https://github.com/xresco/CircularLayout  
 		A circular layout for android where you can items, customize the radius, the number of items displayed at a time and the X and Y offset of the layout.
 
 ####工具类  
