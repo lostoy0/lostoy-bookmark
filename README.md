@@ -18,6 +18,8 @@
 		A circular layout for android where you can items, customize the radius, the number of items displayed at a time and the X and Y offset of the layout.
 5. https://github.com/mikepenz/MaterialDrawer
 		The flexible, easy to use, all in one drawer library for your Android project. http://mikepenz.github.io/MaterialDrawer
+6. https://github.com/SufficientlySecure/html-textview
+		TextView to load HTML  
 
 ####工具类  
 1. https://github.com/jaredrummler/AndroidProcesses  
