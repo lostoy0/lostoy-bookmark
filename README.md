@@ -18,7 +18,7 @@
 		A circular layout for android where you can items, customize the radius, the number of items displayed at a time and the X and Y offset of the layout.
 5. https://github.com/mikepenz/MaterialDrawer
 		The flexible, easy to use, all in one drawer library for your Android project. http://mikepenz.github.io/MaterialDrawer
-6. https://github.com/SufficientlySecure/html-textview
+6. https://github.com/SufficientlySecure/html-textview  
 		TextView to load HTML  
 
 ####工具类  
@@ -53,6 +53,10 @@
 	- http://socket.io/  
 			Socket.IO enables real-time bidirectional event-based communication.  
 			It works on every platform, browser or device, focusing equally on reliability and speed.
+* https://github.com/card-io  
+			card.io credit card scanning  
+* https://github.com/card-io/card.io-Android-SDK  
+			card.io provides fast, easy credit card scanning in mobile apps  
 
 ### 工具类
 * https://github.com/hzlzh/Best-App  
