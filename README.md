@@ -27,10 +27,12 @@
 ####工具类  
 1. https://github.com/jaredrummler/AndroidProcesses  
 		A small library to get the current running processes on Android
-1. https://github.com/romainguy/ViewServer  
+2. https://github.com/romainguy/ViewServer  
 		Local server for Android's HierarchyViewer.  
 		ViewServer is a simple class you can use in your Android application
 		to use the HierarchyViewer inspection tool.  
+3. https://github.com/xuyisheng/ShortcutHelper  
+		快捷方式工具类  
 
 ### IOS开源项目
 
