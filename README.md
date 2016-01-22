@@ -68,5 +68,17 @@
 
 ### 工具类
 * https://github.com/hzlzh/Best-App  
+* 
+
+
+## 应用分发平台
+* http://beta.qq.com/  
+
+
+## 统计平台
+* 友盟  
+
+
+
 
 
