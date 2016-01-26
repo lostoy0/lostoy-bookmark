@@ -35,7 +35,9 @@
 		ViewServer is a simple class you can use in your Android application
 		to use the HierarchyViewer inspection tool.  
 3. https://github.com/xuyisheng/ShortcutHelper  
-		快捷方式工具类  
+		快捷方式工具类
+4. https://github.com/alt236/USB-Device-Info---Android  
+		This application will provide information about almost all currently plugged-in USB devices.  
 
 ### IOS开源项目
 
