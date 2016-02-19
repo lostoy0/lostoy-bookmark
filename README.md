@@ -39,6 +39,9 @@
 4. https://github.com/alt236/USB-Device-Info---Android  
 		This application will provide information about almost all currently plugged-in USB devices.  
 
+####开发工具  
+1. 反编译工具：https://github.com/skylot/jadx
+
 ### IOS开源项目
 
 ### 专题
