@@ -41,6 +41,7 @@
 
 ####开发工具  
 1. 反编译工具：https://github.com/skylot/jadx
+2. ClassyShark--apk分析利器：http://w4lle.github.io/2016/02/15/ClassyShark%E2%80%94%E2%80%94%E5%88%86%E6%9E%90apk%E5%88%A9%E5%99%A8/
 
 ### IOS开源项目
 
