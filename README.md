@@ -39,6 +39,10 @@
 4. https://github.com/alt236/USB-Device-Info---Android  
 		This application will provide information about almost all currently plugged-in USB devices.  
 
+####开源项目代码
+1. https://github.com/oubowu/OuNews   
+2. https://github.com/Harlber/Moose  
+
 ####开发工具  
 1. 反编译工具：https://github.com/skylot/jadx
 2. ClassyShark--apk分析利器：http://w4lle.github.io/2016/02/15/ClassyShark%E2%80%94%E2%80%94%E5%88%86%E6%9E%90apk%E5%88%A9%E5%99%A8/
