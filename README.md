@@ -15,17 +15,21 @@
 
 ####widget
 1. https://github.com/oguzbilgener/CircularFloatingActionMenu  
-		an animated circular menu for Android
+	an animated circular menu for Android
 2. https://github.com/anupcowkur/Android-Wheel-Menu  
-		Simple and easy to use circular menu widget for Android.
+	Simple and easy to use circular menu widget for Android.
 3. https://github.com/szugyi/Android-CircleMenu  
-		Menu with items on a rotating circle
+	Menu with items on a rotating circle
 4. https://github.com/xresco/CircularLayout  
-		A circular layout for android where you can items, customize the radius, the number of items displayed at a time and the X and Y offset of the layout.
+	A circular layout for android where you can items, customize the radius, the number of items displayed at a time and the X and Y offset of the layout.
 5. https://github.com/mikepenz/MaterialDrawer
-		The flexible, easy to use, all in one drawer library for your Android project. http://mikepenz.github.io/MaterialDrawer
+	The flexible, easy to use, all in one drawer library for your Android project. http://mikepenz.github.io/MaterialDrawer
 6. https://github.com/SufficientlySecure/html-textview  
-		TextView to load HTML  
+	TextView to load HTML  
+7. https://github.com/81813780/AVLoadingIndicatorView  
+	Nice loading animations for Android  
+8. https://github.com/jianghejie/XRecyclerView  
+	a RecyclerView that implements pullrefresh and loadingmore featrues.you can use it like a standard RecyclerView  
 
 ####工具类  
 1. https://github.com/jaredrummler/AndroidProcesses  
