@@ -42,6 +42,8 @@
 		快捷方式工具类
 4. https://github.com/alt236/USB-Device-Info---Android  
 		This application will provide information about almost all currently plugged-in USB devices.  
+5. https://github.com/singwhatiwanna/dynamic-load-apk  
+		Apk动态加载框架  
 
 ####开源项目代码
 1. https://github.com/oubowu/OuNews   
