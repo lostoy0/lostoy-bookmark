@@ -30,6 +30,10 @@
 	Nice loading animations for Android  
 8. https://github.com/jianghejie/XRecyclerView  
 	a RecyclerView that implements pullrefresh and loadingmore featrues.you can use it like a standard RecyclerView  
+9. https://github.com/saiwu-bigkoo/Android-PickerView  
+	时间选择器、地区选择器、DatePicker、TimePicker、AddressPicker、仿iOS的PickerView控件，有时间选择和选项选择并支持一二三级联动效果   
+10. https://github.com/weidongjian/androidWheelView/  
+	仿照iOS的滚轮控件
 
 ####工具类  
 1. https://github.com/jaredrummler/AndroidProcesses  
