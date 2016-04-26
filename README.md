@@ -33,7 +33,9 @@
 9. https://github.com/saiwu-bigkoo/Android-PickerView  
 	时间选择器、地区选择器、DatePicker、TimePicker、AddressPicker、仿iOS的PickerView控件，有时间选择和选项选择并支持一二三级联动效果   
 10. https://github.com/weidongjian/androidWheelView/  
-	仿照iOS的滚轮控件
+	仿照iOS的滚轮控件  
+11. https://github.com/Nightonke/BoomMenu  
+	A menu which can ... BOOM!  
 
 ####工具类  
 1. https://github.com/jaredrummler/AndroidProcesses  
