@@ -15,6 +15,7 @@
 1. https://github.com/Juude/Awesome-Android-Architecture  
 	android架构集合  
 2. https://github.com/android10/Android-CleanArchitecture  
+3. https://github.com/googlesamples/android-architecture  
 
 ####widget
 1. https://github.com/oguzbilgener/CircularFloatingActionMenu  
