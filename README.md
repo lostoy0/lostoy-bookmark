@@ -11,7 +11,10 @@
 * http://www.23code.com/  
 * http://mday.mogu.io/  
 
-####框架类
+####框架类  
+1. https://github.com/Juude/Awesome-Android-Architecture  
+	android架构集合  
+2. https://github.com/android10/Android-CleanArchitecture  
 
 ####widget
 1. https://github.com/oguzbilgener/CircularFloatingActionMenu  
