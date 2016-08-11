@@ -45,7 +45,11 @@
 11. https://github.com/Nightonke/BoomMenu  
 	A menu which can ... BOOM!  
 12. https://github.com/zzhoujay/RichText  
-	Android平台下的富文本解析器
+	Android平台下的富文本解析器  
+13. https://github.com/moondroid/CoverFlow  
+	Android CoverFlow widget.  
+14. https://github.com/crosswall/Android-Coverflow  
+	A beautiful coverflow lib for android  
 
 ####工具类  
 1. https://github.com/jaredrummler/AndroidProcesses  
