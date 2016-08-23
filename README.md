@@ -36,6 +36,8 @@
 	android架构集合  
 2. https://github.com/android10/Android-CleanArchitecture  
 3. https://github.com/googlesamples/android-architecture  
+4. https://github.com/hitherejoe/MVVM_Hacker_News  
+5. https://github.com/hitherejoe/Bourbon  
 
 ####widget
 1. https://github.com/oguzbilgener/CircularFloatingActionMenu  
