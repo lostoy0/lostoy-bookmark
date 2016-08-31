@@ -68,6 +68,8 @@
 	Android CoverFlow widget.  
 14. https://github.com/crosswall/Android-Coverflow  
 	A beautiful coverflow lib for android  
+15. https://github.com/wasabeef/awesome-android-ui  
+	A curated list of awesome Android UI/UX libraries  
 
 ####工具类  
 1. https://github.com/jaredrummler/AndroidProcesses  
