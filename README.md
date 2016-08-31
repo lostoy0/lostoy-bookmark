@@ -83,7 +83,9 @@
 4. https://github.com/alt236/USB-Device-Info---Android  
 		This application will provide information about almost all currently plugged-in USB devices.  
 5. https://github.com/singwhatiwanna/dynamic-load-apk  
-		Apk动态加载框架 
+		Apk动态加载框架  
+6. https://github.com/wasabeef/awesome-android-libraries  
+	This is an alphabetical list of libraries for Android development, the majority being actively maintained.  
 
 ####性能优化  
 1. https://github.com/google/android-classyshark  
