@@ -70,6 +70,8 @@
 	A beautiful coverflow lib for android  
 15. https://github.com/wasabeef/awesome-android-ui  
 	A curated list of awesome Android UI/UX libraries  
+16. https://github.com/CameloeAnthony/Learning-RecyclerView  
+	a collection repository for repositories about recyclerView（RecyclerView大集合）  
 
 ####工具类  
 1. https://github.com/jaredrummler/AndroidProcesses  
