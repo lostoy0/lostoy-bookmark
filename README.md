@@ -88,6 +88,8 @@
 		Apk动态加载框架  
 6. https://github.com/wasabeef/awesome-android-libraries  
 	This is an alphabetical list of libraries for Android development, the majority being actively maintained.  
+7. https://github.com/Blankj/AndroidUtilCode  
+	Android开发人员不得不收集的代码(持续更新中) http://blankj.com/862.html    
 
 ####性能优化  
 1. https://github.com/google/android-classyshark  
