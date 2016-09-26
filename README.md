@@ -30,6 +30,7 @@
 ####Android技术网站
 * http://androidcat.com/?step=6&view=CatFragment  
 	android相关精品网站导航  
+* https://zhuanlan.zhihu.com/zmywly8866  
 
 ####框架类  
 1. https://github.com/Juude/Awesome-Android-Architecture  
