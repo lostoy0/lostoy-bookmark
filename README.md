@@ -135,6 +135,8 @@
 			card.io credit card scanning  
 * https://github.com/card-io/card.io-Android-SDK  
 			card.io provides fast, easy credit card scanning in mobile apps  
+* https://github.com/lingochamp/FileDownloader  
+			Multitask、Breakpoint-resume、High-concurrency、Simple to use、Single/NotSingle-process
 
 ### 工具类
 * https://github.com/hzlzh/Best-App  
