@@ -142,6 +142,9 @@
 * https://github.com/hzlzh/Best-App  
 * 
 
+### 公共技术
+* https://github.com/mr-mig/every-programmer-should-know
+
 
 ## 应用分发平台
 * http://beta.qq.com/  
