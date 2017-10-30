@@ -17,6 +17,11 @@
 - PHP  
 - Coding Tools  
 
+## 计算机基础&编程思想
+
+### 基础
+* https://github.com/mr-mig/every-programmer-should-know
+
 ## 开源项目
 
 ### Android开源项目
@@ -141,9 +146,6 @@
 ### 工具类
 * https://github.com/hzlzh/Best-App  
 * 
-
-### 公共技术
-* https://github.com/mr-mig/every-programmer-should-know
 
 
 ## 应用分发平台
